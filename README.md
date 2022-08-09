@@ -1,5 +1,4 @@
-Encapsulation focus on Private Data
-Encapsulation allows the programmer to hide and restrict access to data. 
+Encapsulation focus on Private Data, Encapsulation allows the programmer to hide and restrict access to data. 
 
 To achieve encapsulation:
 * Declare the variables with the private access modifier
